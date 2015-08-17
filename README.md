@@ -6,7 +6,7 @@ to enable the LWM2M Client to perform the operation “Register” with one or m
 Running the daemon
 -----------------
 
-`docker run -d -p 5685:5685/udp --name bs_server [params]`
+`docker run -d -p 5685:5685/udp --name qapps/bs_server [params]`
 
 
 ####available params:
