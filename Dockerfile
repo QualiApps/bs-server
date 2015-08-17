@@ -1,6 +1,6 @@
 # Version: 0.0.1
 
-FROM fedora:21
+FROM debian
 
 MAINTAINER Yury Kavaliou <yury_kavaliou@epam.com>
 
